@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alternative Food Resources</title>
+    <link rel="stylesheet" href="styles.css">
+     <nav class="navbar">
+       <div >
+       <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNhvGfYgsonkMaN73FIXT9NPHbToqa4dLEjg&usqp=CAU" width="100" Height="100" style=" border: 3px solid white; border-radius: 50px" alt="logo">
+       </div>
+       <div style="width: 50%;">
+            <ul class="navlist">
+                <li><a href="C:\Users\91901\Desktop\New folder\alt food res.jpg">About Us</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            </div>
+            <div style=" width: 50% , padding: 40px 40px; " ><form action="search-results.html" method="get">
+    <label for="search">Search:</label>
+    <input type="text" id="search" name="search" placeholder="Search...">
+    <input type="submit" value="Search">
+</form></div>
+        </nav>
+<style>
+        body {
+            background-color: whitesmoke;
+        }
+    </style>
+</head>
+<body>
+    <header><br>
+
+     <h1 style=" text-align: center;"> <i>ALTERNATIVE FOOD RESOURCES</i></h1>
+         <h1><b>Food Resources</b></h1><p><br>
+            Food resources are essential for human survival and well-being. Access to an adequate and nutritious food supply is a fundamental human right, and ensuring food security for all is a global priority. Sustainable practices in food production, distribution, and consumption are increasingly important to address challenges like hunger, malnutrition, and environmental sustainability.
+        <h1><b>Why Alternative Food Resources</b></h1>
+        <p>Alternative food resources refer to unconventional or non-traditional sources of food that can supplement or substitute for conventional food production. These alternatives are often explored and developed in response to various challenges and issues associated with traditional food production methods, such as environmental concerns, limited resources, and the need for sustainable and resilient food systems. Some reasons for exploring alternative food resources include:</p>
+        <ol>
+            <li>Sustainability: Alternative food resources often offer more sustainable production methods that have a lower environmental impact, use fewer resources, and generate less waste. This can include practices like vertical farming, aquaponics, and hydroponics.</li>
+            <li>Limited Resources: With the growing global population and the strain on traditional agricultural practices, alternative food resources can provide solutions to food shortages and resource limitations. Insects, algae, and other unconventional sources can provide high-quality nutrients and proteins with a smaller ecological footprint.</li>
+            <li>Climate Change Adaptation: Climate change poses significant challenges to traditional agriculture, affecting crop yields and leading to shifts in suitable agricultural regions. Alternative food resources, such as resilient crop varieties and climate-adaptive farming techniques, can help mitigate the effects of climate change on food production.</li>
+            <li>Food Security: Alternative food resources can contribute to enhancing food security by diversifying food sources and reducing dependence on a few staple crops. They can also provide solutions for regions where traditional agriculture is not feasible due to environmental or geographical constraints.</li>
+            <li>Health and Nutrition: Some alternative food resources offer unique nutritional benefits, such as microalgae, which are rich in essential fatty acids and various vitamins. They can be a source of functional food ingredients and supplements that contribute to overall health and well-being.</li>
+            <li>Innovation and Technology: Advancements in technology and innovative farming methods have led to the development of alternative food resources that can be produced in controlled environments, such as lab-grown meat, plant-based proteins, and artificial alternatives to traditional animal products.</li>
+
+        </ol>
+        <p>Exploring and embracing alternative food resources can contribute to building more resilient and sustainable food systems, ensuring food security, and addressing the challenges posed by a changing global landscape and population dynamics.Some different types of alternative food resources are mentioned below.</p>
+<h3>Plant-based proteins</h3><p>Plant-based proteins are a category of alternative foods that provide protein without relying on animal products. They have become increasingly popular for their health and environmental benefits, as well as their versatility in various diets, including vegetarian, vegan, and flexitarian diets. Here are some common sources of plant-based proteins:</p><br>
+<ul>
+    <li>Legumes: Legumes like lentils, chickpeas, black beans, and kidney beans are excellent sources of protein. They can be used in a variety of dishes, such as soups, stews, salads, and veggie burgers.<br></li>
+    <li>Seitan: Seitan, also known as wheat gluten or wheat meat, is a high-protein meat substitute made from gluten, the main protein in wheat. It has a meaty texture and is often used in vegan and vegetarian dishes.<br></li>
+    <li>Nuts and Seeds: Almonds, peanuts, chia seeds, and hemp seeds are examples of plant-based sources of protein. They can be used as snacks or added to smoothies, salads, and oatmeal.</li>
+    <li>Grains: Quinoa, bulgur, farro, and barley are grains that are relatively high in protein. They can be used as a base for grain bowls, salads, and side dishes.</li>
+    <li>Plant-Based Meat Alternatives: There are now numerous plant-based meat alternatives on the market, including products like veggie burgers, vegan sausages, and meatless ground beef made from ingredients like peas, soy, and mushrooms.</li>
+    <li>Plant-Based Dairy Alternatives: Many dairy alternatives, such as almond milk, soy milk, and oat milk, are fortified with protein. Plant-based yogurts and cheeses are also available.</li>
+    <li>Spirulina: Spirulina is a type of blue-green algae that is a complete protein source, meaning it contains all essential amino acids. It's often available in powder or tablet form and can be added to smoothies or used as a supplement.</li>
+    <li>Edamame: These are young soybeans and are often served as a snack or added to salads and stir-fries.</li>
+    <li>Nutritional Yeast: Nutritional yeast is a deactivated yeast that has a cheesy flavor. It's often used as a topping for dishes and provides protein and essential B vitamins.</li>
+    </ul>
+    <p>Plant-based proteins are an excellent choice for those looking to reduce their reliance on animal products. They can be part of a balanced and nutritious diet, providing essential amino acids, fiber, vitamins, and minerals. However, it's essential to vary your protein sources to ensure you get a wide range of nutrients. If you're considering transitioning to a plant-based diet, it's a good idea to consult with a healthcare professional or nutritionist to make sure you're meeting your dietary needs.</p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWaYC4pECboednMzD3ltcgVzV5U5DskjaLlw&usqp=CAU" alt="plant-based" width="300" Height="200" style="border: 1px black; border-radius: 20px">
+    <h3>Insect-based food</h3><p>Insect-based food, often referred to as entomophagy, is the practice of consuming insects as a source of nutrition. In many parts of the world, including Asia, Africa, and South America, insects have been part of traditional diets for centuries. They are considered a valuable source of protein, healthy fats, vitamins, and minerals. In recent years, there has been a growing interest in incorporating insects into Western diets due to their potential as a sustainable and nutritious food source.</p>
+    <p>Here are some key points about insect-based food:</p>
+    <ul>
+        <li>Nutritional Value: Insects are rich in protein, often containing a complete profile of essential amino acids. They also provide essential nutrients such as iron, calcium, and vitamins like B vitamins (B12, B6), and they are a good source of healthy fats, particularly in the form of omega-3 fatty acids.</li>
+        <li>Environmental Sustainability: Insects are highly sustainable compared to traditional livestock like cattle or pigs. They require far less land, water, and food to produce the same amount of protein. They also produce fewer greenhouse gas emissions and generate less waste.</li>
+        <li>Culinary Versatility: Insects can be incorporated into a variety of dishes. They can be roasted, sautéed, ground into flour for baking, or used as ingredients in snacks, protein bars, and more. They have a mild, nutty flavor that can complement a wide range of recipes.</li>
+        <li>Safety and Regulation: In many countries, the sale and consumption of insects for food are regulated by food safety authorities to ensure they meet hygiene and safety standards. This ensures that insect-based products are safe for human consumption.</li>
+        <li>Potential Challenges: Despite their nutritional and environmental benefits, there are challenges to wider adoption of insect-based food in some regions. Overcoming cultural barriers, consumer acceptance, and regulatory hurdles can be obstacles to the mainstream adoption of insect-based foods.</li> 
+       </ul>
+       <p>Common edible insects include crickets, mealworms, grasshoppers, and black soldier fly larvae, among others.</p>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_Xd27KulgkAVsRhXchYkOyAjhQNMHpkcBA&usqp=CAU " alt="insect-based" width="300" height="200" style="border: 1px black;border-radius: 20px;">
+
+<h3>Cultured or Lab-Grown Meat</h3>: Cultured meat is produced by growing animal cells in a lab, eliminating the need for raising and slaughtering animals. This approach has the potential to reduce the environmental impact of meat production.<br><img src="C:\Users\teja\OneDrive\Pictures\che protein 2.jpeg" width="300" Height="200">
+
+
+<h3>Vertical Farming</h3>: Vertical farming is a method of growing crops in stacked layers or vertically inclined surfaces, often indoors. This approach can conserve space, reduce water usage, and provide locally grown produce.<br><img src="C:\Users\teja\OneDrive\Pictures\che protein 3.jpeg" width="300" Height="200">
+
+
+<h3>Aquaculture</h3>: Aquaculture involves the farming of fish and other aquatic organisms in controlled environments. It can be more sustainable than wild-caught fishing and can help meet the growing demand for seafood.<br><img src="C:\Users\teja\OneDrive\Pictures\che protein 4.jpeg" width="300" Height="200">
+
+
+<h3>Algae and Seaweed</h3>: Algae and seaweed are rich in nutrients and can be used in a variety of food products, from plant-based alternatives to nutritional supplements.<br><img src="C:\Users\teja\OneDrive\Pictures\che 5.jpeg" width="300" Height="200">
+
+
+<h3>Alternative Grains and Cereals</h3>: While staples like wheat, rice, and corn dominate global diets, alternative grains and cereals like quinoa, millet, and teff are gaining popularity due to their nutritional benefits and adaptability to different climates.<br><img src="C:\Users\teja\Downloads\Complete List of Grains and Pseudograins.jpeg" width="300" Height="200">
+
+<h3>Food Waste Reduction</h3>: Repurposing food waste and byproducts into new food products is a growing trend. This includes making products like fruit leather from surplus fruit or using spent grains from brewing for baking.<br><img src="C:\Users\teja\Downloads\How to Reduce Food Waste in Your Home, According to One of the World's Top Experts.jpeg" width="300" Height="200">
+
+
+
+<h3>Urban Agriculture</h3>: Urban farming involves cultivating food in urban areas, often using rooftops, vertical gardens, or community gardens. It can promote local food production and reduce transportation emissions.<br><img src="C:\Users\teja\Downloads\download.jpeg" width="300" Height="200">
+
+
+
+<h3>Hydroponics and Aeroponics</h3>: These soilless methods of growing plants can be used to produce a wide variety of crops in controlled environments, using less water and space compared to traditional farming.<br><img src="C:\Users\teja\Downloads\How Hydroponics Works and What to Know About Using It.jpeg" width="300" Height="200">
+
+
+
+<h3>Alternative Protein Sources from Algae and Fungi</h3>: Some companies are developing protein-rich products from algae and fungi, offering alternatives to both plant-based and animal-based protein sources.<br><img src="C:\Users\teja\Downloads\The Benefits of Blue Green Algae.jpeg" width="300" Height="200">
+
+
+<h3>Alternative Sweeteners</h3>: In response to concerns about the health impacts of traditional sugar, alternative sweeteners like stevia, monk fruit, and erythritol have become popular.<br><img src="C:\Users\teja\Downloads\Nature's Best Alternative Sweeteners.jpeg" width="300" Height="200">
+
+
+
+<h3>3D-Printed Food</h3>: The emerging technology of 3D printing is being used to create customized food products, which can be tailored to specific dietary needs or preferences.<br><img src="C:\Users\teja\Downloads\Vegetable Parchment Bowls (2).jpeg" width="300" Height="200">
+
+<h3>These alternative food resources are often explored and developed to promote sustainability, reduce environmental impact, improve food security, and cater to changing consumer demands and dietary preferences.</h3><br>
+
+<h1><b>Conceptual framework</b></h1><br>
+The approach of the current study is based on an integrative production-distribution-consumption mode<br> There are three layers of decision in this model:<br> (i) supply chain related to certification and production methods<br>(ii) value delivery network related to the channels of distribution broken down into three main categories, long or standard channel, short channels, and direct channels; and finally.<br> (iii) the consumer behavior related to the psychographics influencing the consumption of alternative food.<br>
+<img src="C:\Users\teja\OneDrive\Documents\WhatsApp Image 2023-10-28 at 19.50.10_251d1ab4.jpg" width="800" Height="500"><br>
+<h1><b>Healthy Eating Plate</b></h1>
+Use the Healthy Eating Plate as a guide for creating healthy, balanced meals—whether served at the table or packed in a lunch box.<br>
+<img src="https://static.toiimg.com/photo/98993570.cms" width="600" Height="500"><br>
+<h1><b>here is the full structured video about the alternative food resources</b></h1><br>
+<a href="https://www.youtube.com/live/jS8I0nuO77I?si=QyyWGFYdmSf0ekkw"><img src="https://i.ytimg.com/vi/jS8I0nuO77I/maxresdefault.jpg" width="800" Height="400"></a>
+
+
+</p>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to our website dedicated to exploring alternative food resources. We are passionate about sustainable and innovative ways to feed the world.</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>Discover a wide range of alternative food products that can help us reduce our ecological footprint and promote healthier eating habits.</p>
+    </section>
+
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p><a href="mailtotejarevuriteja123@gmail.com">tejarevuriteja123@gmail.com</a></p>
+        <p><a href="mailtorithik2604@gmail.com">rithik2604@gmail.com</a></p>
+        <p><a href="mailtogourharshita850@gmail.com">gourharshita850@gmail.com</a></p>
+
+        
+    </section>
+</body>
+</html>
+body{
+    padding: 0;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  .navbar {
+     display: flex;
+     list-style: none;
+     background-color: #e4c980cc;
+     padding: 2px 4px;
+     
+  }
+  .navlist{
+    align-items: center;
+    width: 50%;
+    align-items: center;
+    padding: 25px 20px;
+    
+
+    
+  }
+  .navlist li{
+    display: inline;
+    padding: 25px 10px;
+    color: black;
+  }
+  #search{
+    border: 2px gray;
+    border-radius: 9px;
+  }
